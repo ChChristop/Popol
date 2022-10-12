@@ -7,9 +7,9 @@ import { Home, About, Events, Products, Contact } from './pages';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-    <BrowserRouter>
+    <BrowserRouter basename='/Popol/'>
       <div className='main'>
-        <h1>포트폴리오(수정중)</h1>
+        <h1>포폴(수정중)</h1>
         <h3></h3>
         <Routes>
           <Route exact path='/' element={<Events />} />
