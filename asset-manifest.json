@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Popol/static/css/main.59d4b784.css",
-    "main.js": "/Popol/static/js/main.0d9ac821.js",
+    "main.css": "/Popol/static/css/main.a89243ef.css",
+    "main.js": "/Popol/static/js/main.3fba21e3.js",
     "index.html": "/Popol/index.html",
-    "main.59d4b784.css.map": "/Popol/static/css/main.59d4b784.css.map",
-    "main.0d9ac821.js.map": "/Popol/static/js/main.0d9ac821.js.map"
+    "main.a89243ef.css.map": "/Popol/static/css/main.a89243ef.css.map",
+    "main.3fba21e3.js.map": "/Popol/static/js/main.3fba21e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.59d4b784.css",
-    "static/js/main.0d9ac821.js"
+    "static/css/main.a89243ef.css",
+    "static/js/main.3fba21e3.js"
   ]
 }
